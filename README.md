@@ -1,4 +1,4 @@
-# Hasini Padakandla - Resume Website
+Resume Website
 
 A modern, responsive resume website built with HTML, CSS, and JavaScript featuring smooth animations, mobile-friendly design, and a professional blue and white theme.
 
@@ -82,15 +82,3 @@ Scroll animations and hover effects can be customized in `script.js` and `styles
 - Intersection Observer API for performance-friendly animations
 - Mobile-first responsive design
 - Compressed and optimized code
-
-## Contact Information
-
-**Hasini Padakandla**
-- Email: hasinipadakandla@gmail.com
-- Phone: +91 9492070813
-- LinkedIn: [hasini-padakandla](https://www.linkedin.com/in/hasini-padakandla/)
-- GitHub: [HasiniPadakandla](https://github.com/HasiniPadakandla)
-
----
-
-*Built with ❤️ using modern web technologies*
